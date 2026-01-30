@@ -41,4 +41,9 @@ Conclusion
 
 This Movie Recommendation System demonstrates the practical application of collaborative filtering and matrix factorization in building intelligent, user-centric systems. By combining machine learning techniques with an interactive web interface, the project highlights how recommendation systems are implemented in real-world platforms such as Netflix and Amazon. The system provides a strong foundation for further enhancements, including hybrid recommendation approaches, deployment at scale, and integration with real-time user data.
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/81d51c1a-f0ec-4d9a-b303-b86305648e42" />
+
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/d91fa43a-89dd-4fbe-a925-887c0740acc4" />
+
 
